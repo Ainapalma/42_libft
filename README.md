@@ -4,6 +4,6 @@ Libft is an individual project at 42 that requires us to re-create some standard
 
 The goal is to give a deeper understanding of data structures and basic algorithms.
 
-'libft.subject.pdf' is the task file.
+`libft.subject.pdf` is the task file.
 
-Run 'Make' so you can build the library:
+Run `Make` so you can build the library:
