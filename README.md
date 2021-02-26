@@ -6,4 +6,6 @@ The goal is to us have a deeper understanding of data structures and basic algor
 
 `libft.subject.pdf` is the task file.
 
-Run `Make` so you can build the library:
+Run `make` so you can build the library.
+
+Check by running [libft-unit-test](https://github.com/alelievr/libft-unit-test)
