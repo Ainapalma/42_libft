@@ -9,3 +9,6 @@ The goal is to us have a deeper understanding of data structures and basic algor
 Run `make` so you can build the library.
 
 Check by running [libft-unit-test](https://github.com/alelievr/libft-unit-test).
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
+
