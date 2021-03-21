@@ -10,5 +10,5 @@ Run `make` so you can build the library.
 
 Check by running [libft-unit-test](https://github.com/alelievr/libft-unit-test).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ainapalma/drive/1X6hBxhpXox4oSAtfVGeMmC5oTkQNvZYT]
+[![Open In Colab]](https://colab.research.google.com/github/ainapalma/drive/1X6hBxhpXox4oSAtfVGeMmC5oTkQNvZYT]
 
